@@ -1,0 +1,9 @@
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.deps.json
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csprojResolveAssemblyReference.cache
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.csproj.CoreCompileInputs.cache
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfoInputs.cache
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.AssemblyInfo.cs
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+F:\kavitha\Actor\MyApplication\HelloWorld.Interfaces\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb

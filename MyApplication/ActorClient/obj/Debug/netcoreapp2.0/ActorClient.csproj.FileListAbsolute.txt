@@ -1,0 +1,14 @@
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.deps.json
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.runtimeconfig.json
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.runtimeconfig.dev.json
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.dll
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csproj.CoreCompileInputs.cache
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.AssemblyInfoInputs.cache
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.AssemblyInfo.cs
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\ActorClient.pdb
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.dll
+F:\kavitha\Actor\MyApplication\ActorClient\bin\Debug\netcoreapp2.0\HelloWorld.Interfaces.pdb
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csprojResolveAssemblyReference.cache
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.csproj.CopyComplete
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.dll
+F:\kavitha\Actor\MyApplication\ActorClient\obj\Debug\netcoreapp2.0\ActorClient.pdb

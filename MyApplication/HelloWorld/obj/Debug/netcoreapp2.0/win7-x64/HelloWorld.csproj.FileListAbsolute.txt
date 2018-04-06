@@ -1,0 +1,17 @@
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.dll
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CoreCompileInputs.cache
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfoInputs.cache
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.AssemblyInfo.cs
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.exe
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.deps.json
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.json
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.runtimeconfig.dev.json
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
+F:\kavitha\Actor\MyApplication\HelloWorld\bin\Debug\netcoreapp2.0\win7-x64\HelloWorld.Interfaces.pdb
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csprojResolveAssemblyReference.cache
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.csproj.CopyComplete
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.dll
+F:\kavitha\Actor\MyApplication\HelloWorld\obj\Debug\netcoreapp2.0\win7-x64\HelloWorld.pdb
