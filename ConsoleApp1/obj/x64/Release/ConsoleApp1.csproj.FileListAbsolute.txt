@@ -1,0 +1,7 @@
+F:\kavitha\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe.config
+F:\kavitha\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.exe
+F:\kavitha\ConsoleApp1\ConsoleApp1\bin\x64\Release\ConsoleApp1.pdb
+F:\kavitha\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\kavitha\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\kavitha\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.exe
+F:\kavitha\ConsoleApp1\ConsoleApp1\obj\x64\Release\ConsoleApp1.pdb
